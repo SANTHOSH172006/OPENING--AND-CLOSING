@@ -25,10 +25,6 @@ Use Opening operation
 Use Closing Operation
  
 ## Program:
-```
-NAME : SANJAI S
-REG NO : 212223230186
-```
 
 ```
 
